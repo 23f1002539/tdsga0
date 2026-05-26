@@ -1,6 +1,7 @@
 name: Email Step Demo
 
 on:
+
   push:
     branches: [ main, master ]
   workflow_dispatch:
